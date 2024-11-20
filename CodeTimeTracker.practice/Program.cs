@@ -1,8 +1,16 @@
-﻿using System.Configuration;
-using System.Collections.Specialized;
-using Spectre.Console;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json;
+using Microsoft.Data.Sqlite;
 using Dapper;
-using Dapper.Contrib;
+using Z.Dapper.Plus;
+using Spectre.Console;
 
+internal class Program
+{
+    private static void Main(string[] args)
+    {
 
-Console.WriteLine("Hello, World!");
+        AnsiConsole.MarkupLine("Welcome in []Coding Time[] logger!");
+        
+    }
+}
