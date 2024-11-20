@@ -7,7 +7,7 @@ using Spectre.Console;
 
 internal class Program
 {
-    // static string connectionString = @"Data Source=drugdosagejournal-data.db";
+    // static string connectionString = @"Data Source=substanceDosages-data.db";
 
     private static void Main(string[] args)
     {

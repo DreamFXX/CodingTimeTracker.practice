@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CodingTimeTracker.practice": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\marti\\_working-repo\\CodingTimeTracker.practice\\CodingTimeTracker.practice",
+      "sqlDebugging": true
+    }
+  }
+}
