@@ -7,10 +7,11 @@ using Spectre.Console;
 
 internal class Program
 {
+    static string connectionString = @"Data Source="
     private static void Main(string[] args)
     {
 
-        AnsiConsole.MarkupLine("Welcome in []Coding Time[] logger!");
+        AnsiConsole.MarkupLine("Welcome in Coding Time logger!");
         
     }
 }
